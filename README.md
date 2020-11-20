@@ -1,3 +1,6 @@
+<div align="center">
+<img height="150" src="https://raw.githubusercontent.com/lulyrose/lulyrose/main/white.gif" alt="gif with funny random cat say thank you." />
+</div>
 ### Hi there 👋
 
 <!--
